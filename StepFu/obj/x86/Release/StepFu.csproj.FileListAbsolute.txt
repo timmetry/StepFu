@@ -1,0 +1,12 @@
+C:\Users\Tim\AppData\Local\Temporary Projects\StepFu\bin\Release\StepFu.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\StepFu\bin\Release\StepFu.pdb
+C:\Users\Tim\AppData\Local\Temporary Projects\StepFu\obj\x86\Release\StepFu.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\StepFu\obj\x86\Release\StepFu.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\StepFu\StepFu\obj\x86\Release\StepFu.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\StepFu\StepFu\obj\x86\Release\StepFu.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\StepFu\StepFu\bin\Release\StepFu.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\StepFu\StepFu\bin\Release\StepFu.pdb
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\StepFu\StepFu\obj\x86\Release\StepFu.exe
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\StepFu\StepFu\obj\x86\Release\StepFu.pdb
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\StepFu\StepFu\bin\Release\StepFu.exe
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\StepFu\StepFu\bin\Release\StepFu.pdb
